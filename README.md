@@ -38,9 +38,8 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 <!-- BLOG-POST-LIST:END -->
 
 ## 📝 Recent Projects
-- [Project 1](Link to Project)
-- [Project 2](Link to Project)
-- [Project 3](Link to Project)
+- [Adventa](https://655b09c18ad8c550c822db8b--aquamarine-mochi-76b629.netlify.app/home)
+- [Car-service](https://practice-firebase-58-41d5d.web.app/home)
 
 ---
 
