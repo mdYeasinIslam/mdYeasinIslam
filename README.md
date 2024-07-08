@@ -26,8 +26,8 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdYeasinIslam&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/md-yeasin-islam-1b17b3293/)
+[![Facebook](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.facebook.com/profile.php?id=100011183114419)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ## 📚 Latest Blog Posts
