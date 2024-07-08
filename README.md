@@ -5,9 +5,9 @@
 I'm a passionate web developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Adventa]
+<!-- - 🔭 I’m currently working on [Upwork] -->
 - 🌱 I’m currently learning [React]
-- 👯 I’m looking to collaborate on [Open Source Project/Technology]
+<!-- - 👯 I’m looking to collaborate on [Open Source Project/Technology] -->
 - 💬 Ask me about [Javascript,React]
 - 📫 How to reach me: [hyeasinislam@gmail.com]
 
@@ -28,16 +28,9 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/md-yeasin-islam-1b17b3293/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011183114419)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com) -->
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](Link to Post)
-- [Post Title](Link to Post)
-- [Post Title](Link to Post)
-<!-- BLOG-POST-LIST:END -->
-
-## 📝 Recent Projects
+## 📝 Recent Practice Projects
 - [Adventa](https://655b09c18ad8c550c822db8b--aquamarine-mochi-76b629.netlify.app/home)
 - [Car-service](https://practice-firebase-58-41d5d.web.app/home)
 
