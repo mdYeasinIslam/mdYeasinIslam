@@ -20,10 +20,10 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![Mohammad Yeasin Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Mohammad Yeasin Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdYeasinIslam&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdYeasinIslam&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/yourusername)
