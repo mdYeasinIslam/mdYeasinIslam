@@ -27,7 +27,7 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/md-yeasin-islam-1b17b3293/)
-[![Facebook](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://www.facebook.com/profile.php?id=100011183114419)
+[![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011183114419)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 ## 📚 Latest Blog Posts
