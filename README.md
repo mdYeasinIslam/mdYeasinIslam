@@ -1,6 +1,6 @@
 # Hi there, I'm [Mohammad Yeasin Islam] 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
+![Profile Banner](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 
 I'm a passionate web developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
 
