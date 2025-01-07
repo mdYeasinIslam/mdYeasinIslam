@@ -53,6 +53,8 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com) -->
 
 ## 📝 Recent Practice Projects
+- [BareBlog](https://a11-bareblog.web.app)
+- [ReviewXP](https://unrivaled-sunflower-a3c76c.netlify.app/)
 - [Adventa](https://655b09c18ad8c550c822db8b--aquamarine-mochi-76b629.netlify.app/home)
 - [Car-service](https://practice-firebase-58-41d5d.web.app/home)
 
