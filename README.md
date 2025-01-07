@@ -39,8 +39,19 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdYeasinIslam&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/md-yeasin-islam-1b17b3293/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011183114419)
+<div align="left">
+  <a href="https://www.linkedin.com/in/md-yeasin-islam-1b17b3293/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/hyeasinislam" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011183114419" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com) -->
 
 ## 📝 Recent Practice Projects
