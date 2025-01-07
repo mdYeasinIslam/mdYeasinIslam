@@ -5,11 +5,9 @@
 I'm a passionate web developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
 
 ## 🚀 About Me
-<!-- - 🔭 I’m currently working on [Upwork] -->
-- 🌱 I’m currently learning [React]
-<!-- - 👯 I’m looking to collaborate on [Open Source Project/Technology] -->
-- 💬 Ask me about [Javascript,React]
-- 📫 How to reach me: [hyeasinislam@gmail.com]
+<p align="left">🌐 Front-End Developer: Skilled in building responsive UIs using HTML, CSS, Tailwind CSS, and React with TypeScript.<br>🔒 Authentication: Experience with Firebase for secure user authentication.<br>🌟 Back-End Basics: Familiar with Node.js, Express.js, and MongoDB for server-side development.<br>📚 Learning Journey: Continuously exploring modern web technologies and enhancing my skills through hands-on projects.</p>
+
+###
 
 ## 🛠️ Technologies & Tools
 <div align="left">
