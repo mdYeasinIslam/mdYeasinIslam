@@ -5,7 +5,22 @@
 I'm a passionate web developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
 
 ## 🚀 About Me
-<p align="left">🌐 Front-End Developer: Skilled in building responsive UIs using HTML, CSS, Tailwind CSS, and React with TypeScript.<br>🔒 Authentication: Experience with Firebase for secure user authentication.<br>🌟 Back-End Basics: Familiar with Node.js, Express.js, and MongoDB for server-side development.<br>📚 Learning Journey: Continuously exploring modern web technologies and enhancing my skills through hands-on projects.</p>
+<p align="left">👋 I'm a Junior Frontend Developer passionate about building responsive, user-friendly web applications.
+
+🔹 Tech Stack:
+
+Languages: JavaScript (ES6+), TypeScript, HTML, CSS
+Frontend Frameworks: React.js (with TypeScript)
+Styling: Tailwind CSS, Material UI
+Tools & Platforms: Vite, Git, GitHub, Firebase
+Basic Backend Knowledge: Node.js, Express.js, MongoDB
+🔹 What I Do:
+
+Craft interactive and accessible web experiences
+Convert UI designs into responsive and modern web apps
+Optimize performance and improve user experience
+🔹 Learning & Growth:
+Currently learning MERN Stack to enhance my full-stack development skills 🚀</p>
 
 ###
 
