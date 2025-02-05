@@ -5,22 +5,27 @@
 I'm a passionate web developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
 
 ## 🚀 About Me
-<p align="left">👋 I'm a Junior Frontend Developer passionate about building responsive, user-friendly web applications.
+Since you're a **Junior Frontend Developer**, your GitHub **About** section should highlight your skills, technologies, and goals concisely. Here's a well-structured version you can use and modify:  
 
-🔹 Tech Stack:
+---
 
-Languages: JavaScript (ES6+), TypeScript, HTML, CSS
-Frontend Frameworks: React.js (with TypeScript)
-Styling: Tailwind CSS, Material UI
-Tools & Platforms: Vite, Git, GitHub, Firebase
-Basic Backend Knowledge: Node.js, Express.js, MongoDB
-🔹 What I Do:
+### **🚀 About Me**  
+👋 I'm a **Junior Frontend Developer** passionate about building responsive, user-friendly web applications.  
 
-Craft interactive and accessible web experiences
-Convert UI designs into responsive and modern web apps
-Optimize performance and improve user experience
-🔹 Learning & Growth:
-Currently learning MERN Stack to enhance my full-stack development skills 🚀</p>
+🔹 **Tech Stack:**  
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS  
+- **Frontend Frameworks:** React.js (with TypeScript)  
+- **Styling:** Tailwind CSS, Material UI  
+- **Tools & Platforms:** Vite, Git, GitHub, Firebase  
+- **Basic Backend Knowledge:** Node.js, Express.js, MongoDB  
+
+🔹 **What I Do:**  
+- Craft **interactive and accessible** web experiences  
+- Convert UI designs into **responsive** and **modern** web apps  
+- Optimize performance and **improve user experience**  
+
+🔹 **Learning & Growth:**  
+Currently learning **MERN Stack** to enhance my full-stack development skills 🚀  
 
 ###
 
