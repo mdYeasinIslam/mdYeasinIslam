@@ -4,9 +4,6 @@
 
 I'm a passionate web developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
 
-## 🚀 About Me
-Since you're a **Junior Frontend Developer**, your GitHub **About** section should highlight your skills, technologies, and goals concisely. Here's a well-structured version you can use and modify:  
-
 ---
 
 ### **🚀 About Me**  
