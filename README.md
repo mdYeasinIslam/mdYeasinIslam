@@ -10,9 +10,9 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 👋 I'm a **Junior Frontend Developer** passionate about building responsive, user-friendly web applications.  
 
 🔹 **Tech Stack:**  
-- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS  
+- **Languages:**HTML,JavaScript (ES6+), TypeScript 
 - **Frontend Frameworks:** React.js (with TypeScript)  
-- **Styling:** Tailwind CSS, Material UI  
+- **Styling:** Tailwind CSS, Material UI ,Shadcn UI 
 - **Tools & Platforms:** Vite, Git, GitHub, Firebase  
 - **Basic Backend Knowledge:** Node.js, Express.js, MongoDB  
 
@@ -23,7 +23,8 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 
 🔹 **Learning & Growth:**  
 Currently learning **MERN Stack** to enhance my full-stack development skills 🚀  
-
+🔹 **Fun fact:**  
+- I love to travel and playing mobile games in my free time 
 ###
 
 ## 🛠️ Technologies that I know :
