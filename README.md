@@ -9,7 +9,7 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 
 ###
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies that I know :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
