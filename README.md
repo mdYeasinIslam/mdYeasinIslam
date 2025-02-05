@@ -23,6 +23,7 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 
 🔹 **Learning & Growth:**  
 Currently learning **MERN Stack** to enhance my full-stack development skills 🚀  
+
 🔹 **Fun fact:**  
 - I love to travel and playing mobile games in my free time 
 ###
