@@ -73,8 +73,10 @@ Currently learning **MERN Stack** to enhance my full-stack development skills ğŸ
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com) -->
 
 ## ğŸ“ Recent Practice Projects
+- [AssetPulse](https://asset-pulse-system.netlify.app/)
 - [BareBlog](https://a11-bareblog.web.app)
 - [ReviewXP](https://unrivaled-sunflower-a3c76c.netlify.app/)
+- [OfferHeaven](https://practice-firebase-58.web.app/category/1)
 - [Adventa](https://655b09c18ad8c550c822db8b--aquamarine-mochi-76b629.netlify.app/home)
 - [Car-service](https://practice-firebase-58-41d5d.web.app/home)
 
