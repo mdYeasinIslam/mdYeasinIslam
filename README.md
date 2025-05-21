@@ -1,4 +1,4 @@
-# Hi there, I'm [Mohammad Yeasin Islam] 👋
+# Hi there, I'm Mohammad Yeasin Islam 👋
 
 ![Profile Banner](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 
@@ -58,7 +58,7 @@ I'm a passionate web developer with a knack for creating stunning web applicatio
 ###
 
 ## 📈 GitHub Stats
-<div align="center">
+<div align="left">
 <a href="https://git.io/streak-stats">
 <img src="https://nirzak-streak-stats.vercel.app?user=yeasinrahman26&theme=transparent&border_radius=5" alt="GitHub Streak" />
 </a>
