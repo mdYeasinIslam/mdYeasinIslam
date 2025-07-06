@@ -1,32 +1,32 @@
 # Hi there, I'm Mohammad Yeasin Islam 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
+![Profile Banner](https://i.ibb.co/QvXmzQ4k/Fron-end-Developer.jpg)
 
-I'm a passionate web developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
+I'm a Frontend developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
 
 ---
 
 ### **🚀 About Me**  
-👋 I'm a **Junior Frontend Developer** passionate about building responsive, user-friendly web applications.  
+👋 I'm a **Frontend Developer**, love to build responsive, user-friendly web applications.  
 
 🔹 **Tech Stack:**  
-- **Languages:** HTML,JavaScript (ES6+), TypeScript 
-- **Frontend Frameworks:** React.js (with TypeScript), Next.js  
-- **Styling:** Tailwind CSS, Material UI ,Shadcn UI
-- **State Management:** Redux
-- **Tools & Platforms:** Vite, Git, GitHub, Firebase
-- **Basic Backend Knowledge:** Node.js, Express.js, MongoDB  
+  - **Languages:** HTML,JavaScript (ES6+), TypeScript 
+  - **Frontend Frameworks:** React.js (with TypeScript), Next.js  
+  - **Styling:** Tailwind CSS, Material UI ,Shadcn UI
+  - **State Management:** Redux
+  - **Tools & Platforms:** Vite, Git, GitHub, Firebase
+  - **Basic Backend Knowledge:** Node.js, Express.js, MongoDB  
 
 🔹 **What I Do:**  
-- Craft **interactive and accessible** web experiences  
-- Convert UI designs into **responsive** and **modern** web apps  
-- Optimize performance and **improve user experience**  
+  - Craft **interactive and accessible** web experiences  
+  - Convert UI designs into **responsive** and **modern** web apps  
+  - Optimize performance and **improve user experience**  
 
 🔹 **Learning & Growth:**  
-  - Currently learning **MERN Stack** to enhance my full-stack development skills 🚀  
+  - Currently learning **MERN Stack Technology** to enhance my full-stack development skills 🚀  
 
 🔹 **Fun fact:**  
-  - I love to travel and playing mobile games in my free time 
+  - I love to travel and planting tree in my free time 
 ###
 
 ## 🛠️ Technologies that I know :
