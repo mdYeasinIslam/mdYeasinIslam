@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Yeasin Islam 👋
 
-![Profile Banner](https://i.ibb.co/QvXmzQ4k/Fron-end-Developer.jpg)
+![Profile Banner]()
 
 I'm a Frontend developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
 
@@ -30,7 +30,7 @@ I'm a Frontend developer with a knack for creating stunning web applications. I 
 ###
 
 ## 🛠️ Technologies that I know :
-<div align="left">
+<div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
