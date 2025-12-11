@@ -2,8 +2,6 @@
 
 ![Profile Banner](https://github.com/mdYeasinIslam/mdYeasinIslam/blob/main/Front-end%20Developer%20(1584%20x%20396%20px).png?raw=true)
 
-I'm a Frontend developer with a knack for creating stunning web applications. I love coding, learning new technologies, and sharing my knowledge with the community.
-
 ---
 
 ### **🚀 About Me**  
