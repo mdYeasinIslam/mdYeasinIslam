@@ -8,11 +8,11 @@
 👋 I'm a **Frontend Developer**, love to build responsive, user-friendly web applications.  
 
 🔹 **Tech Stack:**  
-  - **Languages:** HTML,JavaScript (ES6+), TypeScript 
+  - **Languages:** HTML,JavaScript (ES6+), TypeScript, C, C++ 
   - **Frontend Frameworks:** React.js (with TypeScript), Next.js  
-  - **Styling:** Tailwind CSS, Material UI ,Shadcn UI
-  - **State Management:** Redux
-  - **Tools & Platforms:** Vite, Git, GitHub, Firebase
+  - **Styling:** CSS, Tailwind-css, Ant design, Material UI ,Shadcn UI
+  - **State Management:** Context API, Redux
+  - **Tools & Platforms:** Vite, Git, GitHub, Firebase, Vercel, Clickup
   - **Basic Backend Knowledge:** Node.js, Express.js, MongoDB  
 
 🔹 **What I Do:**  
