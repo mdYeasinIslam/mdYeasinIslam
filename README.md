@@ -54,19 +54,17 @@
 
 ![Mohammad Yeasin Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdYeasinIslam&show_icons=true&theme=radical)
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdYeasinIslam&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammad-yeasin-islam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/hyeasinislam" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+
   <a href="https://www.facebook.com/profile.php?id=100011183114419" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+    <a href="https://x.com/hyeasinislam" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3X0LHh-DqOD8MPrmr8K0XtCnIH6ftjqFQw&s" width="40" height="40" alt="twitter logo" style="filter: invert(1);color:red"  />
   </a>
 </div>
 
